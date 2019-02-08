@@ -1,0 +1,14 @@
+{
+  "name": "ics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reduce.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nasim",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
